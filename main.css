@@ -104,12 +104,10 @@ body {
     font-weight: bold;
     font-size: .75rem;
     width: 100%;
-    /* display: block; */
     vertical-align: middle;
     display: flex;
     justify-content: center;
     img {
-        /* display: none; */
         vertical-align: middle;
         font-size: .5rem;
         margin-right: .5rem;
@@ -127,7 +125,7 @@ body {
 @media (max-width: 40rem) {
     .container {
         flex-direction: column;
-        width: 24rem;
+        width: 21rem;
         height: 37rem;
         border-radius: .5rem;
         margin: auto;
