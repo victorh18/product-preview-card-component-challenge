@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Monserrat";
+    src: url('assets/fonts/Montserrat-Regular.ttf');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Monserrat";
+    src: url('assets/fonts/Montserrat-Medium.ttf');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Monserrat";
+    src: url('assets/fonts/Montserrat-Bold.ttf');
+    font-weight: bold
+}
+
+@font-face {
+    font-family: "Fraunces";
+    src: url('assets/fonts/Fraunces.ttf');
+}
